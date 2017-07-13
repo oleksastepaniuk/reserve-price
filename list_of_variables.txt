@@ -1,0 +1,19 @@
+id.lot			- identificator of the lot
+id.tender		- identificator of the tender
+date			- date of the auction announcement
+date.auction		- date of the auction
+id.procurer		- identificator of the procurer
+id.bidder		- identificator of the auction winner
+cpv			- cpv code of the procurement
+good			- description of the procured good
+procedure		- type of procedure
+threshold		- below or under threshold procurement?
+transport		- is transport included?
+payment			- form of payment
+count			- number of the auction participants
+expected.value		- reserve price of the procurement
+round.0			- value of contract after zero round of the auction
+round.3			- value of contract after third round of the auction
+add.agreement		- value of contract after additional agreement
+quantity		- size of the procirement
+measurement		- unit of measurement
