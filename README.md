@@ -10,20 +10,31 @@ Using the analysis of more than two thousands public procurements of natural gas
 Files in the repository:
 
   Short description of the variables included in the three datasets:
+  
     list_of_variables.txt - 
     
   Datasets:
+  
     data_eggs.csv
+    
     data_gas.csv
+    
     data_paper.csv
 
   Analysis of each of the three markets:
+  
     analysis_eggs.R
+    
     analysis_gas.R
+    
     analysis_paper.R
 
   Functions used in the analysis:
+  
     function_describe_variable.R
+    
     function_draw_ribbon.R
+    
     function_draw_scatter.R
+    
     function_mode.R
