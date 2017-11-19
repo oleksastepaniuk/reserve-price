@@ -5,7 +5,7 @@ Short version: http://cep.kse.org.ua/article/Chomu-zavyshchena-ochikuvana%20vart
 
 Full version of the article: link
 
-Using the analysis of more than two thousands public procurements of natural gas, paper A4 and eggs conducted by the Ukrainian public institutions and companies in 2016 and 2017, we showed that increase in the reserve price on average worthens the result of the zero round of the ProZorro auction but does not affect number of the auction participants or competition during the dynamic phase of the auction.
+Using the analysis of more than two thousands public procurements of natural gas, paper A4 and eggs conducted by the Ukrainian public institutions and companies in 2016 and 2017, I showed that increase in the reserve price on average worthens the result of the zero round of the ProZorro auction but does not affect number of the auction participants or competition during the dynamic phase of the auction.
 
 Files in the repository:
 
